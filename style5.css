@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Six+Caps&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto,sans-serif;
+}
+
+.titulo-pag {
+    font-size: 32px;
+    font-family: Six Caps, sans-serif;
+    padding-right: 30rem;
+}
+
+#menu {
+    background-color: #b3949b;
+}
+
+#menu ul {
+    max-width: 1580px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    color: #FFF;
+}
+.foto {
+    margin-left: 450px ;
+}
+.planta {
+    background-color:#b3949b ;
+    width: 60px;
+    height: 25px;
+    margin-left: 450px;
+}
+.vinca {
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 450px;
+}
+p {
+    margin-left: 450px;
+}
